@@ -1,0 +1,5 @@
+[workspace]
+members = [
+    "kaat_proc_macro",
+    "examples"
+]
